@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953547086143",
+    "project_id": "gsheet-push-notofication",
+    "storage_bucket": "gsheet-push-notofication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953547086143:android:f02f8f698bc356e60d5b8a",
+        "android_client_info": {
+          "package_name": "com.example.google_sheets_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953547086143-403rjqt73rddpdorc61srjqjb2nvg6m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_sheets_data",
+            "certificate_hash": "86d36aa30264cd16b42467c3a8510614b22f49d0"
+          }
+        },
+        {
+          "client_id": "953547086143-1ofm8iu6goc7ehbsj5bb8vil9kq835ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJL-9tKU21gORMlF4W6xAFf4uM9Mavd0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953547086143-1ofm8iu6goc7ehbsj5bb8vil9kq835ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
